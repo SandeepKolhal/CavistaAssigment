@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CavistaAssignment</string>
+    <string name="search_image">Search Image</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="add_comment_error">Please Add Comment</string>
+    <string name="no_comments_available">No Comments Available</string>
+</resources>
